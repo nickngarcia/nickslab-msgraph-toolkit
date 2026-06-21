@@ -1,0 +1,17 @@
+# Timestamped script run logs - not meant to be committed
+*-[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]-[0-9][0-9][0-9][0-9][0-9][0-9].csv
+
+# Secrets / credentials
+*.pfx
+*.key
+*.pem
+.env
+appsettings*.json
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.code-workspace
