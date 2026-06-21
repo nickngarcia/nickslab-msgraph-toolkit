@@ -15,7 +15,7 @@ extension.
 
 | Folder | Problem solved |
 |---|---|
-| [Clear-OnPremisesAttributes](./Clear-OnPremisesAttributes/) | Clear stale `onPremises*` attributes from Entra users after on-prem sync is permanently disabled (DC loss, decommission) without needing AD access. |
+| [Clear-OnPremisesAttributes](./Clear-EntraOnPremisesAttributes/) | Clear stale `onPremises*` attributes from Entra users after on-prem sync is permanently disabled (DC loss, decommission) without needing AD access. |
 
 ## Conventions used across these scripts
 
